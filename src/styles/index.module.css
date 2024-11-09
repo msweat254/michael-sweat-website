@@ -1,0 +1,35 @@
+.pageContent {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fee1c9;
+  height: 100vh;
+}
+
+.portraitContainer {
+  border: 1px solid black;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.portrait {
+  width: 100%;
+  height: 100%;
+}
+
+.titleContainer {
+  margin-bottom: 50px;
+}
+
+.cardGridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 0px;
+}

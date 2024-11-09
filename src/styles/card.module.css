@@ -1,0 +1,41 @@
+.cardContainer {
+  height: 100%;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  border: 1px solid black;
+  box-sizing: border-box;
+  cursor: pointer;
+  background-color: #1f2937;
+  color: white;
+  border-radius: 15px;
+  box-shadow: -7px 7px 22px -6px rgba(0, 0, 0, 0.75);
+  transition: transform 0.3s ease-in-out;
+}
+
+.cardContainer:hover {
+  transform: scale(1.05);
+}
+
+.cardTitleContainer {
+  margin-bottom: 15px;
+}
+
+.cardTitle {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #e2e8f0; /* A lighter shade to contrast with the background */
+}
+
+.cardBodyContainer {
+  text-align: left;
+  padding: 10px 0;
+}
+
+.cardBody {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #cbd5e1; /* Slightly lighter than pure white for readability */
+  word-spacing: 1px;
+  text-align: left;
+}
