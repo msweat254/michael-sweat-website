@@ -16,8 +16,7 @@
   "scripts": {
     "start": "next start",
     "build": "next build",
-    "dev": "next dev",
-    "eject": "next eject"
+    "dev": "next dev"
   },
   "eslintConfig": {
     "extends": [
