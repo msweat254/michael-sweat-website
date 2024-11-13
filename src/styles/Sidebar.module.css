@@ -11,9 +11,9 @@
   background-color: #1f2937;
   color: #fff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  transition: width 0.3s ease;
+  transition: width 0.3s;
   overflow: hidden;
-  z-index: 1000;
+  z-index: 2000;
 }
 
 .sidebar:hover {
@@ -50,7 +50,7 @@
   cursor: pointer;
   transition: background-color 0.2s, width 0.3s;
   position: relative;
-  height: 46px;
+  height: 36px;
 }
 
 .sidebarIcon svg {
@@ -60,7 +60,7 @@
 
 .sidebar:hover .sidebarIcon {
   justify-content: start; 
-  padding-left: 33px; 
+  /* padding-left: 33px;  */
 }
 
 .sidebarBottom .sidebarIcon {
@@ -79,17 +79,13 @@
 }
 
 .iconText {
-  margin-left: 30px; 
+  margin-left: 63px; 
   font-size: 15px;
   white-space: nowrap;
   opacity: 0;
   transition: opacity 0.2s;
   pointer-events: none; 
   display: none;
-}
-
-.sidebar:hover .iconLink {
-  flex-direction: row; /* Align icon and text horizontally when expanded */
 }
 
 .sidebar:hover .iconText {
@@ -99,9 +95,9 @@
 
 /* Position GitHub icon at the bottom */
 .sidebarBottom {
-  margin-top: auto;
-  padding-bottom: 20px;
+  margin-bottom: 16px;
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 100%;
 }
