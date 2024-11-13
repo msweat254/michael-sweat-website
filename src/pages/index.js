@@ -23,7 +23,7 @@ const HomePage = () => {
   return (
     <div className={styles.pageContent}>
       <div className={styles.portraitContainer}>
-        <img className={styles.portrait} alt="Portrait of Myself" src="/portrait.png" />
+        <img className={styles.portrait} alt="Portrait of Myself" src="static/images/portrait.png" />
       </div>
       <div className={styles.titleContainer}>
         <h1 className={styles.title}>Hello, my name is Michael!</h1>
