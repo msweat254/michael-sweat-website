@@ -1,0 +1,32 @@
+.pageContent {
+  padding: 30px;
+  height: 100vh;
+  text-align: center;
+  background-color: #fee1c9; /* Matches background color of the site */
+  color: #1f2937;
+}
+
+.title {
+  font-size: 2rem;
+  color: #1f2937;
+  margin-bottom: 20px;
+}
+
+/* Styling each expander to fit well with the site theme */
+.expanderRow {
+  margin-bottom: 15px;
+}
+
+.expanderRow h2 {
+  font-size: 1.5rem;
+  color: #1f2937;
+  margin: 0;
+  text-align: left;
+}
+
+.expanderBodyContainer {
+  padding: 10px;
+  text-align: left;
+  font-size: 1rem;
+  color: #374151;
+}

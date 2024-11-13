@@ -18,7 +18,7 @@ const Sidebar = () => {
         <SidebarIcon onClick={() => router.push('/')} icon={<IoHome />} text="Home" />
         <SidebarIcon onClick={() => router.push('/about')} icon={<FaUser />} text="About" />
         <SidebarIcon onClick={() => router.push('/projects')} icon={<FaFolderOpen />} text="Projects" />
-        <SidebarIcon onClick={() => router.push('/resume')} icon={<FaFileAlt />} text="Resume" />
+        <SidebarIcon onClick={() => window.open('about:blank','_blank')} icon={<FaFileAlt />} text="Resume" />
         <SidebarIcon onClick={() => router.push('/contact')} icon={<FaEnvelope />} text="Contact" />
       </div>
 

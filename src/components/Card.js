@@ -5,6 +5,10 @@ const Card = ({ title, body, urlEndpoint }) => {
     const router = useRouter();
 
     const handleCardClick = () => {
+        if (urlEndpoint == '/resume') {
+            window.open('about:blank','_blank')
+            return
+        }
         router.push(urlEndpoint);
     };
 
