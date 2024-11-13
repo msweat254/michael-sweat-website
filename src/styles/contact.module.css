@@ -1,0 +1,111 @@
+.pageContent {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fee1c9;
+  height: 100vh;
+}
+
+.contactFormContainer {
+  width: 100%;
+  max-width: 600px;
+  padding: 30px;
+  background-color: #1f2937;
+  color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.contactTitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #fee1c9;
+}
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #e5e7eb;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-size: 16px;
+  background-color: #374151;
+  color: white;
+}
+
+.input::placeholder,
+.textarea::placeholder {
+  color: #9ca3af;
+}
+
+.textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.submitButton {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  background-color: #fee1c9;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+.submitButton:disabled {
+  cursor: not-allowed;
+  background-color: #fbbf85;
+}
+
+.submitButton:hover:not(:disabled) {
+  background-color: #fbbf85;
+}
+
+/* Loader animation */
+.loader {
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #333;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+.submitButton:hover {
+  background-color: #fbbf85;
+}
+
+.statusMessage {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #fee1c9;
+}
