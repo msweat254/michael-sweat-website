@@ -1,7 +1,13 @@
-import { useRouter } from 'next/router';
-import { FaEnvelope, FaFolderOpen, FaUser, FaFileAlt, FaGithub } from 'react-icons/fa';
+import { useRouter } from "next/router";
+import {
+  FaEnvelope,
+  FaFolderOpen,
+  FaUser,
+  FaFileAlt,
+  FaGithub,
+} from "react-icons/fa";
 import { IoHome } from "react-icons/io5";
-import styles from '../styles/Sidebar.module.css';
+import styles from "../styles/Sidebar.module.css";
 
 const Sidebar = () => {
   const router = useRouter();
@@ -11,21 +17,45 @@ const Sidebar = () => {
       <div>
         <div className={styles.sidebarLogo}>
           <div className={styles.logoCircle}>
-            <img src='static/images/portrait.png' alt="Logo" className={styles.logoImg} />
+            <img
+              src="static/images/portrait.png"
+              alt="Logo"
+              className={styles.logoImg}
+            />
           </div>
         </div>
 
-        <SidebarIcon onClick={() => router.push('/')} icon={<IoHome />} text="Home" />
-        <SidebarIcon onClick={() => router.push('/about')} icon={<FaUser />} text="About" />
-        <SidebarIcon onClick={() => router.push('/projects')} icon={<FaFolderOpen />} text="Projects" />
-        <SidebarIcon onClick={() => window.open('about:blank','_blank')} icon={<FaFileAlt />} text="Resume" />
-        <SidebarIcon onClick={() => router.push('/contact')} icon={<FaEnvelope />} text="Contact" />
+        <SidebarIcon
+          onClick={() => router.push("/")}
+          icon={<IoHome />}
+          text="Home"
+        />
+        <SidebarIcon
+          onClick={() => router.push("/about")}
+          icon={<FaUser />}
+          text="About"
+        />
+        <SidebarIcon
+          onClick={() => router.push("/projects")}
+          icon={<FaFolderOpen />}
+          text="Projects"
+        />
+        <SidebarIcon
+          onClick={() => window.open("/static/assets/resume.pdf", "_blank")}
+          icon={<FaFileAlt />}
+          text="Resume"
+        />
+        <SidebarIcon
+          onClick={() => router.push("/contact")}
+          icon={<FaEnvelope />}
+          text="Contact"
+        />
       </div>
 
       {/* GitHub Icon at the Bottom */}
       <div className={styles.sidebarBottom}>
-        <SidebarIcon 
-          onClick={() => window.open('https://github.com/msweat254', '_blank')}
+        <SidebarIcon
+          onClick={() => window.open("https://github.com/msweat254", "_blank")}
           icon={<FaGithub />}
           text="GitHub"
         />

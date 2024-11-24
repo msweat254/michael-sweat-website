@@ -4,6 +4,9 @@
   text-align: center;
   background-color: #fee1c9; /* Matches background color of the site */
   color: #1f2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .title {
