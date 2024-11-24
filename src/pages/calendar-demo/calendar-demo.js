@@ -8,7 +8,7 @@ import "react-big-calendar/lib/css/react-big-calendar.css";
 import "./styles/styles.css";
 import "./styles/conditional-formatting.css";
 import updateAppointment from "./api/updateAppointment";
-import LoadingOverlay from "react-loading-overlay";
+import LoadingOverlay from "@msweat254/react-loading-overlay";
 import optimizeAppointments from "./api/optimizeAppointments";
 
 moment.locale("en-GB");
