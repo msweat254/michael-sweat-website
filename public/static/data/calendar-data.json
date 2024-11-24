@@ -1,0 +1,2384 @@
+{
+  "1": {
+    "name": "Marielle Kunze",
+    "top_tier": true,
+    "closer_rank": null,
+    "tier": 1,
+    "max_appointments": 6,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 1,
+        "calendar_id": "jennine@johns.test",
+        "calendar_event_id": "cn74ck7necm409q4scpe04p5h8",
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "location": "",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 1,
+        "calendar_id": "jennine@johns.test",
+        "calendar_event_id": "lb49lajidb1jaf57ofk5e4djn0",
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "location": "6231 Se Premier Ct Milwaukie, Oregon 97267",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 1,
+        "calendar_id": "jennine@johns.test",
+        "calendar_event_id": "pkacprhjvjo54h6eevo25tf77c",
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "location": "306 Ne Stanton St Portland, Oregon 97212",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 1,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 1,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "jacobiburgh",
+        "state": "New York",
+        "zip_code": "97800",
+        "street": "4079 williamson keys",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Lucille Pagac",
+        "customer_name": "Darth Organa",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 1,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 2,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "south marvinville",
+        "state": "Arkansas",
+        "zip_code": "83947",
+        "street": "1420 gleichner port",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Lucille Pagac",
+        "customer_name": "Anakin Chewbacca",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 1,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 3,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "hershelville",
+        "state": "Louisiana",
+        "zip_code": "07709",
+        "street": "21394 hayes square",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Lucille Pagac",
+        "customer_name": "Darth Ackbar",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "2": {
+    "name": "Yasuko Conn",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": 2,
+    "max_appointments": 2,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 2,
+        "calendar_id": "hilde@jacobs.example",
+        "calendar_event_id": "qir8f01hecrc23gnnd0cat48mo",
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "location": "3621 N Albina Ave Portland, Oregon 97227",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 2,
+        "calendar_id": "hilde@jacobs.example",
+        "calendar_event_id": "02rad8rri5k8cfcj0oo97r0u5s",
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "location": "21505 Sw Cayuse Ct Tualatin, Oregon 97062",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 2,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 4,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "wehnertown",
+        "state": "Texas",
+        "zip_code": "30947",
+        "street": "567 bruen landing",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Providencia Jerde",
+        "customer_name": "Luke Dooku",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 2,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 5,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "port karmenland",
+        "state": "West Virginia",
+        "zip_code": "12266",
+        "street": "932 west flat",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Providencia Jerde",
+        "customer_name": "Maz Hutt",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 2,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 6,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "west jeremy",
+        "state": "New Mexico",
+        "zip_code": "88135",
+        "street": "28497 lupita vista",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Providencia Jerde",
+        "customer_name": "Admiral Chewbacca",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "3": {
+    "name": "Neville Thompson",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": 3,
+    "max_appointments": 1,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "appointment_type": "user",
+        "type_id": 3,
+        "calendar_id": "nisha.renner@rice.example",
+        "calendar_event_id": "_8coj2dpp6p1jcb9n8h0j6b9k6d2j4b9o8d1k8b9p6t2jah9j70q",
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "location": null,
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 3,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 7,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "taylorborough",
+        "state": "Illinois",
+        "zip_code": "13457",
+        "street": "2802 sylvia unions",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Bert Dibbert",
+        "customer_name": "Sheev Haako",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 3,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 8,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "west laquitaville",
+        "state": "Missouri",
+        "zip_code": "95972",
+        "street": "8018 pfeffer landing",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Bert Dibbert",
+        "customer_name": "Rune Jinn",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 3,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 9,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "east dania",
+        "state": "Colorado",
+        "zip_code": "90891",
+        "street": "5002 upton plain",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Bert Dibbert",
+        "customer_name": "Ezra Jarrus",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "4": {
+    "name": "Jean Ortiz",
+    "top_tier": true,
+    "closer_rank": null,
+    "tier": 1,
+    "max_appointments": 6,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 4,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 10,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "port tarraland",
+        "state": "Iowa",
+        "zip_code": "30338",
+        "street": "8525 philip inlet",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Michaela Wiegand",
+        "customer_name": "Finn Sidious",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 4,
+        "category": "ProposalAppointment",
+        "is_locked": true,
+        "appointment_type": "user",
+        "calendar_event_id": 11,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "south janee",
+        "state": "Michigan",
+        "zip_code": "66602",
+        "street": "995 harris islands",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Michaela Wiegand",
+        "customer_name": "Grand Ventress",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 4,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 12,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "raymondberg",
+        "state": "California",
+        "zip_code": "56340",
+        "street": "72416 danny stream",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Michaela Wiegand",
+        "customer_name": "Qui-Gon Skywalker",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "5": {
+    "name": "Apolonia Kshlerin",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": 2,
+    "max_appointments": 2,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 5,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 13,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "macejkovichaven",
+        "state": "Colorado",
+        "zip_code": "56889",
+        "street": "13697 leuschke orchard",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Sueann Cartwright",
+        "customer_name": "Darth Solo",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 5,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 14,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "port hayden",
+        "state": "Montana",
+        "zip_code": "06776",
+        "street": "25537 myrtie via",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Sueann Cartwright",
+        "customer_name": "Captain Chewbacca",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 5,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 15,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "johnsonborough",
+        "state": "Minnesota",
+        "zip_code": "80630",
+        "street": "61535 marjory wells",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Sueann Cartwright",
+        "customer_name": "Greedo Hux",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "6": {
+    "name": "Corey Simonis",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": 3,
+    "max_appointments": 1,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 6,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 16,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "port trudishire",
+        "state": "New Mexico",
+        "zip_code": "67818",
+        "street": "8186 howe view",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tracey Murazik",
+        "customer_name": "Darth Solo",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 6,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 17,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "lake carmelaside",
+        "state": "Iowa",
+        "zip_code": "27336",
+        "street": "2071 casper lock",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tracey Murazik",
+        "customer_name": "Rune Vader",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 6,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 18,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "port helga",
+        "state": "Indiana",
+        "zip_code": "90482",
+        "street": "313 cedric branch",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tracey Murazik",
+        "customer_name": "Count Ventress",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "7": {
+    "name": "Kathi Blanda",
+    "top_tier": true,
+    "closer_rank": null,
+    "tier": 1,
+    "max_appointments": 6,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 7,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 19,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "eldonmouth",
+        "state": "Rhode Island",
+        "zip_code": "97020",
+        "street": "5025 belen brooks",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Ashli Collins",
+        "customer_name": "Hera Wren",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 7,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 20,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "port see",
+        "state": "Florida",
+        "zip_code": "07427",
+        "street": "53101 jefferey plain",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Ashli Collins",
+        "customer_name": "Captain Phasma",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 7,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 21,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "shantelfurt",
+        "state": "Michigan",
+        "zip_code": "66751",
+        "street": "708 adolfo unions",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Ashli Collins",
+        "customer_name": "Galen Tico",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "8": {
+    "name": "Rey Langworth",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": null,
+    "max_appointments": null,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 8,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 22,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "new fran",
+        "state": "Montana",
+        "zip_code": "90885",
+        "street": "90041 jacobi shore",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Jonas Lakin",
+        "customer_name": "Vice Binks",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 8,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 23,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "sengerhaven",
+        "state": "Montana",
+        "zip_code": "08761",
+        "street": "37296 antonio tunnel",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Jonas Lakin",
+        "customer_name": "Chewbacca Phasma",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 8,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 24,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "south chuck",
+        "state": "Arkansas",
+        "zip_code": "76652",
+        "street": "795 donnelly prairie",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Jonas Lakin",
+        "customer_name": "Chewbacca Wren",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "9": {
+    "name": "Corinne Kessler",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": null,
+    "max_appointments": null,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 9,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 25,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "modestoborough",
+        "state": "Rhode Island",
+        "zip_code": "19830",
+        "street": "3240 vandervort mission",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tommie Hirthe",
+        "customer_name": "Kanan Phasma",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 9,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 26,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "west horacio",
+        "state": "Colorado",
+        "zip_code": "38243",
+        "street": "43910 lawrence meadow",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tommie Hirthe",
+        "customer_name": "Kylo Ren",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 9,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 27,
+        "in_current_round_robin": true,
+        "round_robin_group_id": 1,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "borermouth",
+        "state": "Florida",
+        "zip_code": "04113",
+        "street": "2743 gleichner land",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Tommie Hirthe",
+        "customer_name": "Sabine Skywalker",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  },
+  "10": {
+    "name": "Waldo Heller",
+    "top_tier": false,
+    "closer_rank": null,
+    "tier": null,
+    "max_appointments": null,
+    "latitude": "40.798934",
+    "longitude": "-111.967180",
+    "appointments": [
+      {
+        "appointment_type": "team",
+        "type_id": 1,
+        "calendar_id": "portland_sales_team@example_company.com",
+        "calendar_event_id": "jq11v7t4mk4f7q9pn50nftc10o",
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "location": "17025 Se Ankeny St Portland, Oregon 97233",
+        "calendar_type": "google_calendar",
+        "category": "PersonalAppointment",
+        "in_current_round_robin": false
+      },
+      {
+        "type_id": 10,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 28,
+        "in_current_round_robin": false,
+        "round_robin_group_id": null,
+        "start_time": "2024-11-22 10:00:00 UTC",
+        "end_time": "2024-11-22 12:00:00 UTC",
+        "city": "davidfurt",
+        "state": "Idaho",
+        "zip_code": "69364",
+        "street": "7223 bergstrom forest",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Maren Jacobi",
+        "customer_name": "Galen Antilles",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 10,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 29,
+        "in_current_round_robin": false,
+        "round_robin_group_id": null,
+        "start_time": "2024-11-22 17:30:00 UTC",
+        "end_time": "2024-11-22 19:30:00 UTC",
+        "city": "lake talishaberg",
+        "state": "New Mexico",
+        "zip_code": "61852",
+        "street": "1292 hand ridges",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Maren Jacobi",
+        "customer_name": "Count Hux",
+        "calendar_type": "app"
+      },
+      {
+        "type_id": 10,
+        "category": "ProposalAppointment",
+        "is_locked": false,
+        "appointment_type": "user",
+        "calendar_event_id": 30,
+        "in_current_round_robin": false,
+        "round_robin_group_id": null,
+        "start_time": "2024-11-22 18:00:00 UTC",
+        "end_time": "2024-11-22 20:00:00 UTC",
+        "city": "sanfordstad",
+        "state": "Alaska",
+        "zip_code": "67811",
+        "street": "344 janis islands",
+        "latitude": "40.798934",
+        "longitude": "-111.967180",
+        "notes": null,
+        "calendar_id": null,
+        "setter_name": "Maren Jacobi",
+        "customer_name": "Watto Caedus",
+        "calendar_type": "app"
+      }
+    ],
+    "time_slots": [
+      {
+        "start_time": "2024-11-22T08:00:00+00:00",
+        "end_time": "2024-11-22T08:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T08:30:00+00:00",
+        "end_time": "2024-11-22T09:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:00:00+00:00",
+        "end_time": "2024-11-22T09:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T09:30:00+00:00",
+        "end_time": "2024-11-22T10:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:00:00+00:00",
+        "end_time": "2024-11-22T10:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T10:30:00+00:00",
+        "end_time": "2024-11-22T11:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:00:00+00:00",
+        "end_time": "2024-11-22T11:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T11:30:00+00:00",
+        "end_time": "2024-11-22T12:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:00:00+00:00",
+        "end_time": "2024-11-22T12:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T12:30:00+00:00",
+        "end_time": "2024-11-22T13:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:00:00+00:00",
+        "end_time": "2024-11-22T13:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T13:30:00+00:00",
+        "end_time": "2024-11-22T14:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:00:00+00:00",
+        "end_time": "2024-11-22T14:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T14:30:00+00:00",
+        "end_time": "2024-11-22T15:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:00:00+00:00",
+        "end_time": "2024-11-22T15:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T15:30:00+00:00",
+        "end_time": "2024-11-22T16:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T16:00:00+00:00",
+        "end_time": "2024-11-22T16:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T16:30:00+00:00",
+        "end_time": "2024-11-22T17:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:00:00+00:00",
+        "end_time": "2024-11-22T17:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T17:30:00+00:00",
+        "end_time": "2024-11-22T18:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:00:00+00:00",
+        "end_time": "2024-11-22T18:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T18:30:00+00:00",
+        "end_time": "2024-11-22T19:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:00:00+00:00",
+        "end_time": "2024-11-22T19:30:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T19:30:00+00:00",
+        "end_time": "2024-11-22T20:00:00+00:00",
+        "available": false
+      },
+      {
+        "start_time": "2024-11-22T20:00:00+00:00",
+        "end_time": "2024-11-22T20:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T20:30:00+00:00",
+        "end_time": "2024-11-22T21:00:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:00:00+00:00",
+        "end_time": "2024-11-22T21:30:00+00:00",
+        "available": true
+      },
+      {
+        "start_time": "2024-11-22T21:30:00+00:00",
+        "end_time": "2024-11-22T22:00:00+00:00",
+        "available": true
+      }
+    ]
+  }
+}

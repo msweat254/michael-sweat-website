@@ -1,0 +1,21 @@
+.event-overlap {
+  background-image: repeating-linear-gradient(
+    45deg,
+    white,
+    white 10px,
+    red 10px,
+    red 20px
+  );
+  color: black;
+}
+
+.event-sunday {
+  background-color: #f0e68c; /* Light khaki */
+  color: black;
+}
+
+.event-past,
+.personal-appt {
+  background-color: #d3d3d3; /* Grey */
+  color: black;
+}
