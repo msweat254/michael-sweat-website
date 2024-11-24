@@ -21,10 +21,6 @@ const RoutesPopup = ({
     }
   };
 
-  const handleCloseInfoWindow = () => {
-    setSelectedPin(null);
-  };
-
   const handleEditClick = () => {
     if (selectedPin) {
       const eventToEdit = appointments[selectedPin.index];

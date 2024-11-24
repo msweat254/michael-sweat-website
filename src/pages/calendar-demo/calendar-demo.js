@@ -94,7 +94,7 @@ export default function CalendarPage() {
   }, [selectedDate]);
 
   const openCalendarPopup = (event) => {
-    if (event.category == "PersonalAppointment") {
+    if (event.category === "PersonalAppointment") {
       return;
     }
     setSelectedEvent(event);
